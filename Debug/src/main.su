@@ -1,0 +1,5 @@
+main.c:11:6:SPIConfig	8	static
+main.c:30:6:GPIOConfig	8	static
+main.c:65:6:SPI_Tx	16	static
+main.c:83:9:SPI_Rx	16	static
+main.c:101:5:main	8	static
